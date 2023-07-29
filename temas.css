@@ -21,12 +21,14 @@ background-color: rgba(253, 0, 0, 0.582);
 display: flex;
 
 }
-.inicio{
-width: 80px;-
-height: 75px;
-background-color: black;
-margin: 2px;
 
+.inicio{
+    width: 80px;
+    height: 75px;
+    background-color: black;
+    margin: 25px;
+        
+        
 }
 .sociales{
 width: 80px;

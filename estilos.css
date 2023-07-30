@@ -11,7 +11,7 @@
     
     body{
     
-    background-image: url("fondo.jpg");
+    background-image: url("black-1072366_1920.jpg");
     
     background-repeat: no-repeat;
     
@@ -55,66 +55,399 @@
         
         text-align: justify;
         
-        color: brown;
+        color: rgb(255, 255, 255);
         
          
         
         }
         
     
+        .contenido{
 
-
-
-    .contenido{
-
-        height: 280px;
-        
-        width: 100%;
-        
-        position: absolute;
-        
-        top: 410px;
-        
-         
-        
-        }
-        
-         
-        
-        .imagentecno{
-        
-         
-        
-        background-repeat: no-repeat;
-        
-        float:left;
-        
-        height: 200px;
-        
-        width: 260px;
-        
-        margin-left: 5px;
-        
-        margin-right:5px;
-        
-        background-image: url("medellin.webp");
-        
-        }
-        
-        
-        
-        .textotecno{
-        
-        text-align: justify;
-        
-        color: azure;
-        
-        font-size: 20px;
-        
-        
-        
-        }
-        
-
+            height: 280px;
+            width: 100%;
+            float: right;
+            position: absolute;
+            color: white;
+            top: 410px;
+            
+             
+            
+            }
+            
+            .imagentecno{
     
+     
     
+                background-repeat: no-repeat;
+                
+                float:left;
+                
+                height: 200px;
+                
+                width: 260px;
+                
+                margin-left: 5px;
+                
+                margin-right:5px;
+                
+                background-image: url(operador\ elect.png);
+                
+                
+                }
+                
+                
+                
+                .textotecno{
+                
+                text-align: justify;
+                
+                color: rgb(255, 255, 255);
+                font-size: 20px;
+            
+                }
+
+                .giftecno{
+    
+     
+    
+                    background-repeat: no-repeat;
+                    
+                    float:right;
+                    
+                    height: 200px;
+                    
+                    width: 260px;
+                    
+                    margin-left: 5px;
+                    
+                    margin-right:5px;
+                    
+                    background-image: url(ezgif.com-gif-maker.gif);
+                    
+                    
+                    }
+            
+                .contenido{
+
+                    height: 280px;
+                    
+                    width: 100%;
+                    float: right;
+                    position: absolute;
+                    color: white;
+                    top: 410px;
+                    
+                     
+                    
+                    }
+                    
+                    .imagensociales{
+            
+             
+            
+                        background-repeat: no-repeat;
+                        
+                        float:left;
+                        
+                        height: 200px;
+                        
+                        width: 260px;
+                        
+                        margin-left: 5px;
+                        
+                        margin-right:5px;
+                        
+                        background-image: url(REV\ FRANCESA.jpg);
+                        
+                        }
+                        
+                        
+                        
+                        .textosociales{
+                        
+                        text-align: justify;
+                        
+                        color: rgb(255, 255, 255);
+
+                        font-size: 40px;
+                    
+                        }
+                    
+                        .contenido{
+
+                            height: 280px;
+                            
+                            width: 100%;
+                            
+                            position: absolute;
+                            
+                            top: 410px;
+                            
+                             
+                            
+                            }
+                            
+                             
+                            
+                            .imagenmatematicas{
+                            
+                             
+                            
+                            background-repeat: no-repeat;
+                            
+                            float:left;
+                            
+                            height: 200px;
+                            
+                            width: 260px;
+                            
+                            margin-left: 5px;
+                            
+                            margin-right:5px;
+                            
+                            background-image: url(POLINOMIOS.jpg);
+                            
+                            }
+                            
+                            
+                            
+                            .textomatematicas{
+                            
+                            text-align: justify;
+                            
+                            color: azure;
+                            
+                            font-size: 20px;
+                            
+                            
+                            
+                            }
+
+                            .contenido{
+
+                                height: 280px;
+                                
+                                width: 100%;
+                                float: right;
+                                position: absolute;
+                                color: white;
+                                top: 410px;
+                                
+                                 
+                                
+                                }
+                                
+                                .imageningles{
+                        
+                         
+                        
+                                    background-repeat: no-repeat;
+                                    
+                                    float:left;
+                                    
+                                    height: 200px;
+                                    
+                                    width: 260px;
+                                    
+                                    margin-left: 5px;
+                                    
+                                    margin-right:5px;
+                                    
+                                    background-image: url(ENFERMEDADES.jpg);
+                                    
+                                    }
+                                    
+                                    
+                                    
+                                    .textoingles{
+                                    
+                                    text-align: left;
+                                    
+                                    color: rgb(255, 255, 255);
+                                    font-size: 15px;
+                                
+                                    }
+                            
+                                    .contenido{
+
+                                        height: 280px;
+                                        
+                                        width: 100%;
+                                        float: right;
+                                        position: absolute;
+                                        color: white;
+                                        top: 410px;
+                                        
+                                         
+                                        
+                                        }
+                                        
+                                        .imageningles2{
+                                
+                                 
+                                
+                                            background-repeat: no-repeat;
+                                            
+                                            float:left;
+                                            
+                                            height: 200px;
+                                            
+                                            width: 260px;
+                                            
+                                            margin-left: 5px;
+                                            
+                                            margin-right:5px;
+                                            
+                                            background-image: url( );
+                                            
+                                            }
+                                            
+                                            
+                                            
+                                            .textoingles2{
+                                            
+                                            text-align: right;
+                                            
+                                            color: rgb(0, 255, 128);
+                                            font-size: 15px;
+                                        
+                                            }
+                    
+                            
+                            
+                            
+                                    .contenido{
+
+                                        height: 280px;
+                                        
+                                        width: 100%;
+                                        float: right;
+                                        position: absolute;
+                                        color: white;
+                                        top: 410px;
+                                        
+                                         
+                                        
+                                        }
+                                        
+                                        .imagenreligion{
+                                
+                                 
+                                
+                                            background-repeat: no-repeat;
+                                            
+                                            float:left;
+                                            
+                                            height: 200px;
+                                            
+                                            width: 260px;
+                                            
+                                            margin-left: 5px;
+                                            
+                                            margin-right:5px;
+                                            
+                                            background-image: url(HINDUISMO.jpg);
+                                            
+                                            }
+                                            
+                                            
+                                            
+                                            .textoreligion{
+                                            
+                                            text-align: left;
+                                            
+                                            color: rgb(145, 255, 0);
+                                            font-size: 15px;
+                                        
+                                            }  
+
+                                            .contenido{
+
+                                                height: 280px;
+                                                
+                                                width: 100%;
+                                                float: right;
+                                                position: absolute;
+                                                color: white;
+                                                top: 410px;
+                                                
+                                                 
+                                                
+                                                }
+                                                
+                                                .imagenreligion2{
+                                        
+                                         
+                                        
+                                                    background-repeat: no-repeat;
+                                                    
+                                                    float:left;
+                                                    
+                                                    height: 200px;
+                                                    
+                                                    width: 260px;
+                                                    
+                                                    margin-left: 5px;
+                                                    
+                                                    margin-right:5px;
+                                                    
+                                                    background-image: url(HINDUISMO.jpg);
+                                                    
+                                                    }
+                                                    
+                                                    
+                                                    
+                                                    .textoreligion2{
+                                                    
+                                                    text-align: right;
+                                                    
+                                                    color: rgb(255, 255, 255);
+                                                    font-size: 15px;
+                                                
+                                                    }  
+                                            
+                                            .contenido{
+
+                                                height: 200px;
+                                                
+                                                width: 100%;
+                                                float: right;
+                                                position: absolute;
+                                                color: white;
+                                                top: 290px;
+                                                
+                                                 
+                                                
+                                                }
+                                                
+                                                .imagenbiologia{
+                                        
+                                         
+                                        
+                                                    background-repeat: no-repeat;
+                                                    
+                                                    float:left;
+                                                    
+                                                    height: 200px;
+                                                    
+                                                    width: 260px;
+                                                    
+                                                    margin-left: 5px;
+                                                    
+                                                    margin-right:5px;
+                                                    
+                                                    background-image: url(HEMOFILIA.jpg);
+                                                    
+                                                    }
+                                                    
+                                                    
+                                                    
+                                                    .textobiologia{
+                                                    
+                                                    text-align: justify;
+                                                    
+                                                    color: rgb(255, 255, 255);
+                                                    font-size: 16px;
+                                                
+                                                    }                                                    

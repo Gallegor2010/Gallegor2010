@@ -13,10 +13,10 @@
     
     background-image: url("black-1072366_1920.jpg");
     
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     
     }
-
+    
     .img{
 
         position: relative;
@@ -398,56 +398,185 @@
                                                     
                                                     
                                                     
-                                                    .textoreligion2{
-                                                    
-                                                    text-align: right;
-                                                    
-                                                    color: rgb(255, 255, 255);
-                                                    font-size: 15px;
-                                                
-                                                    }  
+.textoreligion2{    
+text-align: right;                     
+color: rgb(255, 255, 255);
+font-size: 15px;
+}  
                                             
-                                            .contenido{
+ .contenido{
+height: 200px;                                      
+width: 100%;
+float: right;
+position: absolute;
+color: white;
+top: 290px;                                    
+                                                
+}
+                                                
+.imagenbiologia{   
+background-repeat: no-repeat;                                
+float:left;                                      
+height: 200px;                                     
+width: 260px;                                     
+margin-left: 5px;                                    
+margin-right:5px;                                     
+background-image: url(HEMOFILIA.jpg);
+                                                    
+ }
+                                                    
+.textobiologia{
+text-align: justify;
+color: rgb(255, 255, 255);
+font-size: 16px;
+                                                
+ }    
 
-                                                height: 200px;
-                                                
-                                                width: 100%;
-                                                float: right;
-                                                position: absolute;
-                                                color: white;
-                                                top: 290px;
-                                                
-                                                 
-                                                
-                                                }
-                                                
-                                                .imagenbiologia{
-                                        
-                                         
-                                        
-                                                    background-repeat: no-repeat;
+ .contenido{
+    height: 200px;                                      
+    width: 100%;
+    float: right;
+    position: absolute;
+    color: white;
+    top: 290px;                                    
                                                     
-                                                    float:left;
+}
+.textotecno3{
+        
+font-size: 16px;
+        
+text-align: justify;
+        
+color: rgb(255, 255, 255);
+}
+.contenido{
+    height: 200px;                                      
+    width: 100%;
+    float: right;
+    position: absolute;
+    color: white;
+    top: 290px;                                    
                                                     
-                                                    height: 200px;
+}
+.textoingles1{
+        
+font-size: 19px;
+        
+text-align: left;
+        
+color: rgb(255, 255, 255); 
+}
+.imageningles1{   
+    background-repeat: no-repeat;                                
+    float:left;                                      
+    height: 300px;                                     
+    width: 500px;                                     
+    margin-left: 5px;                                    
+    margin-right:5px;                                     
+    background-image: url(trata\ a\ los\ demas\ regla\ de\ oro.jpg);
+                                                        
+     }
+.imageningles22{   
+background-repeat: no-repeat;                                
+float:left;                                      
+height: 300px;                                     
+width: 500px;                                     
+margin-left: 5px;                                    margin-right:5px;                                     
+background-image: url(descarga.png);
+                                                                
+}
+.imageningles3{   
+    background-repeat: no-repeat;                                
+    float:left;                                      
+    height: 250px;                                     
+    width: 400px;                                     
+    margin-left: 5px;                                    margin-right:5px;                                     
+    background-image: url(Ofensa.jpg);
+                                                                    
+ }
+ 
+ .imageningles4{   
+    background-repeat: no-repeat;                                
+    float:left;                                      
+    height: 300px;                                     
+    width: 500px;                                     
+    margin-left: 5px;                                    margin-right:5px;                                     
+    background-image: url(foto-bannerweb-prevencionviolencia_1.webp);
+                                                                    
+ }
+ .imageningles5{   
+    background-repeat: no-repeat;                                
+    float:left;                                      
+    height: 400px;                                     
+    width: 800px;                                     
+    margin-left: 5px;                                    margin-right:5px;                                     
+    background-image: url(Diversidad.jpg);
+                                                                    
+ }
+ .imageningles6{   
+    background-repeat: no-repeat;                                
+    float:left;                                      
+    height: 350px;                                     
+    width: 750px;                                     
+    margin-left: 5px;                                    margin-right:5px;                                     
+    background-image: url(rtve-1.png);
+                                                                    
+ }
+ .imageningles7{   
+    background-repeat: no-repeat;                                
+    float:left;                                      
+    height: 150px;                                     
+    width: 400px;                                     
+    margin-left: 5px;                                    margin-right:5px;                                     
+    background-image: url(images.jpg);
+                                                                    
+ } 
+ .imageningles8{   
+    background-repeat: no-repeat;                                
+    float:left;                                      
+    height: 700px;                                     
+    width: 600px;                                     
+    margin-left: 5px;                                    margin-right:5px;                                     
+    background-image: url(images5_70.jpg);
+                                                                    
+ } 
+ .contenido{
+    height: 200px;                                      
+    width: 100%;
+    float: right;
+    position: absolute;
+    color: white;
+    top: 290px;                                    
                                                     
-                                                    width: 260px;
+    }
                                                     
-                                                    margin-left: 5px;
+    .imagenbiologia3{   
+    background-repeat: no-repeat;                                
+    float:left;                                      
+    height: 500px;                                     
+    width: 600px;                                     
+    margin-left: 5px;                                    
+    margin-right:5px;                                     
+    background-image: url(ciclo-de-testosterona-efectos.jpg);
+                                                        
+     }
+     .imagenbiologia4{   
+        background-repeat: no-repeat;                                
+        float:right;                                      
+        height: 200px;                                     
+        width: 260px;                                     
+        margin-left: 5px;                                    
+        margin-right:5px;                                     
+        background-image: url(Testosteron.svg.png);
+                                                            
+         }
+                                                        
+    .textobiologia3{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
                                                     
-                                                    margin-right:5px;
-                                                    
-                                                    background-image: url(HEMOFILIA.jpg);
-                                                    
-                                                    }
-                                                    
-                                                    
-                                                    
-                                                    .textobiologia{
-                                                    
-                                                    text-align: justify;
-                                                    
-                                                    color: rgb(255, 255, 255);
-                                                    font-size: 16px;
-                                                
-                                                    }                                                    
+     }                    
+            
+                
+        

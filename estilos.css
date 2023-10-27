@@ -608,9 +608,11 @@ background-image: url(descarga.png);
     .textobiologia3{
     text-align: center;
     color: rgb(255, 255, 255);
-    font-size: 20px;
+    font-size: 19px;
                                                     
      }
+                                        
+    
      .imagensociales1{   
         background-repeat: no-repeat;                                
         float:left;                                      
@@ -627,12 +629,12 @@ background-image: url(descarga.png);
             height: 880px;                                     
             width: 500px;                                     
             margin-left: 5px;                                    
-            margin-right:5px;                                     
+            margin-right: 37px;                                 
             background-image: url(revolucion\ 2.jpg);
              }
              .imagensociales3{   
                 background-repeat: no-repeat;                                
-                float: none;                                      
+                float: left;                                      
                 height: 877px;                                     
                 width: 500px;                                     
                 margin-left: 400px;                                    
@@ -640,7 +642,39 @@ background-image: url(descarga.png);
                 background-image: url(revolucion3.jpg);
                                                                     
                  }
-                    
+                 .contenido{
+                    height: 200px;                                      
+                    width: 100%;
+                    float: right;
+                    position: absolute;
+                    color: white;
+                    top: 290px;                                    
+                                                                    
+                }
+.textomate1{
+text-align: left;
+color: rgb(255, 255, 255);
+font-size: 19px;
+                                                                    
+}
+.imagenmate1{   
+    background-repeat: no-repeat;                                
+    float:right;                                      
+    height: 270px;                                     
+    width: 500px;                                     
+    margin-left: 5px;                                    
+    margin-right:40px;                                     
+    background-image: url(maxresdefault3.jpg);
+}              
+.imagenmate2{   
+    background-repeat: no-repeat;                                
+    float:right;                                      
+    height: 277px;                                     
+    width: 500px;                                     
+    margin-left: 5px;                                    
+    margin-right:40px;                                     
+    background-image: url(maxresdefault4.jpg);
+}              
             
                 
         

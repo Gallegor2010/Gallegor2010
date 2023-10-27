@@ -43,12 +43,19 @@
         
          
         
-        height: 230px;
+        height: 1000px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+        }
+        .contenedor2{
         
          
         
-        }
-        
+            height: 1000px;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+            
+             
+            
+            }
         .texto{
         
         font-size: 40px;
@@ -56,6 +63,10 @@
         text-align: justify;
         
         color: rgb(255, 255, 255);
+        font-family: 'Nosifer', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;
         
          
         
@@ -101,9 +112,12 @@
                 .textotecno{
                 
                 text-align: justify;
-                
                 color: rgb(255, 255, 255);
                 font-size: 20px;
+                font-family: 'Nosifer', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;
             
                 }
 
@@ -170,7 +184,11 @@
                         
                         color: rgb(255, 255, 255);
 
-                        font-size: 40px;
+                        font-size: 20px;
+                        font-family: 'Nosifer', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;
                     
                         }
                     
@@ -219,6 +237,10 @@
                             color: azure;
                             
                             font-size: 20px;
+                            font-family: 'Nosifer', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;
                             
                             
                             
@@ -266,6 +288,10 @@
                                     
                                     color: rgb(255, 255, 255);
                                     font-size: 15px;
+                                    font-family: 'Nosifer', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;
                                 
                                     }
                             
@@ -359,6 +385,10 @@
                                             
                                             color: rgb(145, 255, 0);
                                             font-size: 15px;
+                                            font-family: 'Nosifer', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;
                                         
                                             }  
 
@@ -429,6 +459,10 @@ background-image: url(HEMOFILIA.jpg);
 text-align: justify;
 color: rgb(255, 255, 255);
 font-size: 16px;
+font-family: 'Nosifer', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;
                                                 
  }    
 
@@ -576,7 +610,37 @@ background-image: url(descarga.png);
     color: rgb(255, 255, 255);
     font-size: 20px;
                                                     
-     }                    
+     }
+     .imagensociales1{   
+        background-repeat: no-repeat;                                
+        float:left;                                      
+        height: 880px;                                     
+        width: 500px;                                     
+        margin-left: 5px;                                    
+        margin-right:5px;                                     
+        background-image: url(revolucion\ industrial\ 1.jpg);
+                                                            
+         }
+         .imagensociales2{   
+            background-repeat: no-repeat;                                
+            float:right;                                      
+            height: 880px;                                     
+            width: 500px;                                     
+            margin-left: 5px;                                    
+            margin-right:5px;                                     
+            background-image: url(revolucion\ 2.jpg);
+             }
+             .imagensociales3{   
+                background-repeat: no-repeat;                                
+                float: none;                                      
+                height: 877px;                                     
+                width: 500px;                                     
+                margin-left: 400px;                                    
+                margin-right:5px;                                     
+                background-image: url(revolucion3.jpg);
+                                                                    
+                 }
+                    
             
                 
         

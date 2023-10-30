@@ -17,27 +17,6 @@
     
     }
     
-    .img{
-
-        position: relative;
-        
-         
-        
-        width: 190px;
-        
-        height: 190px;
-        
-        border-radius: 10px;
-        
-        background-repeat: no-repeat;
-        
-         
-        
-        left: 180px;
-        
-        background-image: url("medellin.jpeg");
-        
-        }
         
         .contenedor{
         
@@ -465,24 +444,6 @@ font-family: 'Playfair Display', serif;
 font-family: 'Poppins', sans-serif;
                                                 
  }    
-
- .contenido{
-    height: 200px;                                      
-    width: 100%;
-    float: right;
-    position: absolute;
-    color: white;
-    top: 290px;                                    
-                                                    
-}
-.textotecno3{
-        
-font-size: 16px;
-        
-text-align: justify;
-        
-color: rgb(255, 255, 255);
-}
 .contenido{
     height: 200px;                                      
     width: 100%;
@@ -499,6 +460,8 @@ font-size: 19px;
 text-align: left;
         
 color: rgb(255, 255, 255); 
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
 }
 .imageningles1{   
     background-repeat: no-repeat;                                
@@ -609,6 +572,7 @@ background-image: url(descarga.png);
     text-align: center;
     color: rgb(255, 255, 255);
     font-size: 19px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
                                                     
      }
                                         
@@ -655,6 +619,7 @@ background-image: url(descarga.png);
 text-align: left;
 color: rgb(255, 255, 255);
 font-size: 19px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
                                                                     
 }
 .imagenmate1{   
@@ -674,7 +639,22 @@ font-size: 19px;
     margin-left: 5px;                                    
     margin-right:40px;                                     
     background-image: url(maxresdefault4.jpg);
-}              
+}     
+.contenido{
+    height: 200px;                                      
+    width: 100%;
+    float: right;
+    position: absolute;
+    color: white;
+    top: 290px;                                    
+                                                    
+}
+.textotecno3{
+text-align: left;
+color: rgb(255, 255, 255);
+font-size: 19px;
+font-family: 'Courier New', Courier, monospace;
+}
             
                 
         
